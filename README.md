@@ -64,4 +64,4 @@ For the [image](https://www.flickr.com/photos/whitlsam/38721984060/in/album-7215
 - `inverted` render with the alternate character sequence
 
 ### Example
-A rendered and post-processed example can be viewed [here]()
+A rendered and post-processed example can be viewed [here](https://www.youtube.com/watch?v=GibiNy4d4gc). THe original video is linked in the description.
